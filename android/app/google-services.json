@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "311130606155",
+    "project_id": "cro102-asm",
+    "storage_bucket": "cro102-asm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311130606155:android:24388eb2f50929daf21bce",
+        "android_client_info": {
+          "package_name": "com.cro102_thanghtph31577_asm2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgRjLdbhpglRzV7Yxxtx2UNRvjL2waneg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

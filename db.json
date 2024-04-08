@@ -1,0 +1,170 @@
+{
+  "products": [
+    {
+      "price": 4.5,
+      "nameProduct": "cappuccino cream",
+      "description": "Smooth and creamy cappuccino",
+      "image": "https://classiccoffee.com.vn/files/common/the-nao-la-ly-ca-phe-capuchino-ngon-chuan-vi-7nvpe.png",
+      "isFavorite": false,
+      "category": 1,
+      "viewed": 1,
+      "id": "1"
+    },
+    {
+      "price": 9,
+      "nameProduct": "cappuccino Catlong",
+      "description": "with coconut",
+      "image": "https://www.lottemart.vn/media/catalog/product/cache/0x0/8/9/8936077512295-1.jpg.webp",
+      "isFavorite": true,
+      "category": 1,
+      "viewed": 1,
+      "id": "2"
+    },
+    {
+      "price": 5,
+      "nameProduct": "Cappuccino",
+      "description": "with milk and coffee",
+      "image": "https://urbannaturale.com/wp-content/uploads/2022/12/coffee-800-x-533px-983955_960_720.jpg",
+      "isFavorite": false,
+      "category": 1,
+      "viewed": 1,
+      "id": "3"
+    },
+    {
+      "price": 3.5,
+      "nameProduct": "Hot Espresso",
+      "description": "Strong black coffee",
+      "image": "https://file.hstatic.net/1000075078/article/blog_f80b599183c340bca744c174e7ab2af8.jpg",
+      "isFavorite": true,
+      "viewed": 0,
+      "category": 2,
+      "id": "4"
+    },
+    {
+      "price": 3.8,
+      "nameProduct": "Double shot espresso",
+      "description": "Double shot espresso",
+      "image": "https://file.hstatic.net/1000075078/file/_downloader.la_-61c5a3efe8a26_e89c52b940a049d7bc8aa114d2c03e5c_grande.jpg",
+      "isFavorite": false,
+      "category": 2,
+      "viewed": 0,
+      "id": "5"
+    },
+    {
+      "price": 12,
+      "nameProduct": "Espresso martini",
+      "description": "a sumptuous mix of vodka, coffee liqueur and espresso",
+      "image": "https://img.jamieoliver.com/home/wp-content/uploads/2019/11/5.Espresso_martini_102.jpg",
+      "isFavorite": false,
+      "category": 2,
+      "viewed": 1,
+      "id": "6"
+    },
+    {
+      "price": 4.5,
+      "nameProduct": "Cold Brew Vanilla",
+      "description": "Smooth and creamy vanilla-infused cold brew",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoerg4FzcPDw0LPzE5pqUoqAo8Y73qFrF_FA&s",
+      "isFavorite": false,
+      "category": 3,
+      "viewed": 0,
+      "id": "7"
+    },
+    {
+      "id": "8",
+      "nameProduct": "Cold Brew Mocha",
+      "price": 3.8,
+      "description": "Refreshing black cold brew",
+      "image": "https://yourdreamcoffee.com/wp-content/uploads/2021/06/cold-brew-iced-mocha-recipe-scaled.jpeg",
+      "isFavorite": false,
+      "viewed": 0,
+      "category": 3
+    },
+    {
+      "id": "9",
+      "nameProduct": "Cold Brew Latte",
+      "price": 4.2,
+      "description": "Creamy cold brew with milk",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2m3NYdy49V-3QUn8vidq4iFId2FuPpAGH5utj4qDvRg&s",
+      "isFavorite": false,
+      "viewed": 0,
+      "category": 3
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "nameCategory": "Cappuccinos"
+    },
+    {
+      "id": "2",
+      "nameCategory": "Espressos"
+    },
+    {
+      "id": "3",
+      "nameCategory": "ColdBrews"
+    }
+  ],
+  "carts": [
+    {
+      "id": "1",
+      "quantity": 1,
+      "nameProduct": "Cold Brew Latte",
+      "price": 4.2,
+      "description": "Creamy cold brew with milk",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2m3NYdy49V-3QUn8vidq4iFId2FuPpAGH5utj4qDvRg&s",
+      "category": 3,
+      "size": "small"
+    }
+  ],
+  "comment": [
+    {
+      "id": "8226",
+      "idProduct": "1",
+      "idUser": "C5S6OcUf7hhI7U5aYd5zygVxc4Q2",
+      "message": "ngon lắm"
+    },
+    {
+      "id": "a184",
+      "idProduct": "1",
+      "idUser": "C5S6OcUf7hhI7U5aYd5zygVxc4Q2",
+      "message": "ngon lắm"
+    },
+    {
+      "id": "6d43",
+      "idProduct": "1",
+      "idUser": "1",
+      "message": "ngon lắm"
+    },
+    {
+      "id": "34b7",
+      "idProduct": "1",
+      "idUser": "1",
+      "message": "ngon lắm"
+    },
+    {
+      "id": "9226",
+      "idProduct": "1",
+      "idUser": "C5S6OcUf7hhI7U5aYd5zygVxc4Q2",
+      "message": "10 diem"
+    },
+    {
+      "id": "98b1",
+      "idProduct": "1",
+      "idUser": "C5S6OcUf7hhI7U5aYd5zygVxc4Q2",
+      "message": "10 diem"
+    },
+    {
+      "id": "22f9",
+      "idProduct": "2",
+      "idUser": "KDbxUVLquGOCCLxUDg5CCz6F1Zj2",
+      "message": "cppu"
+    },
+    {
+      "id": "95ba",
+      "idProduct": "2",
+      "idUser": "KDbxUVLquGOCCLxUDg5CCz6F1Zj2",
+      "message": "oke"
+    }
+  ]
+}
